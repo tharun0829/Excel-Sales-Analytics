@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a **customer performance in India report** - 
+    **1.** Create a **customer performance in India report** - (https://github.com/tharun0829/Excel-Sales-Analytics/blob/main/Indian%20Customer%20Performance%20report.pdf)
 
     **2.** Conduct a comprehensive comparison between **Market Performance and Sales Targets** - (https://github.com/tharun0829/Excel-Sales-Analytics/blob/main/Market%20performance%20vs%20Target%20report.pdf)
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
